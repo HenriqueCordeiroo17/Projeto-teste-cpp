@@ -7,9 +7,9 @@ int main() {
     std::cin >> numero;
 
     if (numero % 2 == 0) {
-        std::cout << "O numero eh par." << std::endl;
+        std::cout << "O numero eh par kkkkkk" << std::endl;
     } else {
-        std::cout << "O numero eh impar." << std::endl;
+        std::cout << "O numero eh impar :/" << std::endl;
     }
 
     return 0;
